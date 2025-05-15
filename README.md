@@ -12,6 +12,7 @@ Expert Feedback: Receive detailed feedback from experienced industry professiona
 Real Interview Pressure: Simulates a real interview environment to build your confidence under pressure.
 
 Customized Learning Paths: Tailored feedback-driven paths to help you focus on specific improvement areas.
+Here in the these cards i have included the hover effect that means whenever the user points the cursor in the card to read it will change its colour.
 
 #sharpen yoou skills. Ace interviews. Get Hired Section :
 
